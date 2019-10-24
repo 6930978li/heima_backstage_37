@@ -69,7 +69,7 @@ export default {
   components: {
     VueEditor
   },
-  data () {
+  data () { //
     return {
       addForm: {
         title: '',
